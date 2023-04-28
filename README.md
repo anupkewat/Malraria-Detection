@@ -1,4 +1,4 @@
-# Malaria-Detection
+# Malaria Cell Detection
 Malaria Cell Detection using CNN
 
 
